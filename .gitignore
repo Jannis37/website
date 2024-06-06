@@ -52,4 +52,4 @@ proxy.conf.json
 /projects
 
 
-.angular/
+# .angular/
