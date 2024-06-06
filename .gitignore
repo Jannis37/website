@@ -50,3 +50,6 @@ Thumbs.db
 proxy.conf.json
 
 /projects
+
+
+.angular/
